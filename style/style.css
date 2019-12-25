@@ -1,0 +1,31 @@
+*{
+    font-family: verdana;
+    margin-left: 0px;
+}
+nav li{
+    color:#fff;
+    padding:10px;
+    font-size:25px;
+    font-family:stencil;
+    list-style: none;    
+}
+nav li:hover{
+    background-color: #fff;
+    color:black;
+    border-radius: 4px;
+    transition:0.3s ease-in-out;
+}
+li{
+    list-style: none;
+}
+nav select{
+    border-radius: 4px;
+    background-color: #ddd;
+    text-align: center;
+    width:320px;
+    border-color:#fff;
+}
+#options li{
+    color:darkblue;
+    font-size:18px;
+}
